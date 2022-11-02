@@ -1,3 +1,3 @@
-#README 
+# README 
 
-##Simple program made with python
+Simple program made with python
